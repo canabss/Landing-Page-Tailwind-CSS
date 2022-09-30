@@ -1,0 +1,15 @@
+@import url("http://fonts.cdnfonts.com/css/wilderness-typeface");
+@import url('http://fonts.cdnfonts.com/css/lato');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+    @apply bg-white rounded overflow-hidden shadow relative;
+}
+
+.card1{
+    @apply bg-white rounded overflow-hidden shadow relative;
+}
+
